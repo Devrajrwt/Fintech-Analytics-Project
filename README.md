@@ -94,11 +94,14 @@ Contains transaction details including:
 Fintech-Analytics-Project
 │
 ├── Data
-│   ├── Customers.csv
-│   └── Finance_Transactions.csv
+│   ├── customers_raw_csv
+│   ├── customers_clean_csv
+│   ├── finance_transactions_raw_csv
+│   ├── finance_transactions_clean_csv
 │
 ├── Excel
-│   └── Data Cleaning (Power Query)
+│   ├── customers_raw_excel_clean
+│   ├── finance_transactions_raw_excel_clean
 │
 ├── SQL
 │   ├── 00_Database_Setup.sql
@@ -269,24 +272,6 @@ The interactive dashboard consists of three pages:
 - Strengthen fraud detection for high-risk channels.
 - Continuously improve the transaction risk scoring model.
 - Develop machine learning models for fraud prediction.
-
----
-
-# 📷 Dashboard Preview
-
-> *(Add screenshots of your Power BI dashboard here after uploading to GitHub.)*
-
-### Executive Overview
-
-*(Insert Screenshot)*
-
-### Fraud Analysis
-
-*(Insert Screenshot)*
-
-### Risk Monitoring
-
-*(Insert Screenshot)*
 
 ---
 
