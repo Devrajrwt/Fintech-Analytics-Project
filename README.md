@@ -5,8 +5,6 @@ End-to-end Data Analytics project using Excel, PostgreSQL, Python, and Power BI 
 
 End-to-end Data Analytics project using **Excel (Power Query), PostgreSQL, Python, and Power BI** to analyze 50,000 financial transactions, detect fraud patterns, evaluate transaction risk, and generate actionable business insights.
 
----
-
 # 📌 Project Overview
 
 Financial institutions process millions of transactions daily, making it essential to monitor revenue, customer behavior, fraud, and transaction risk.
@@ -23,8 +21,6 @@ The project follows the complete Data Analytics workflow:
 - Business Insights
 - Strategic Recommendations
 
----
-
 # 🛠️ Tools & Technologies
 
 - Microsoft Excel (Power Query)
@@ -37,8 +33,6 @@ The project follows the complete Data Analytics workflow:
 - Power BI
 - DAX
 - Git & GitHub
-
----
 
 # 📂 Dataset Information
 
@@ -62,8 +56,6 @@ Contains customer demographic information including:
 - Annual Income
 - Join Date
 
----
-
 ## Finance Transactions Table
 
 | Attribute | Value |
@@ -85,8 +77,6 @@ Contains transaction details including:
 - Risk Score
 - Risk Category
 - Fraud Status
-
----
 
 # 🗂️ Project Structure
 
@@ -126,8 +116,6 @@ Fintech-Analytics-Project
 └── README.md
 ```
 
----
-
 # 📊 Key Performance Indicators (KPIs)
 
 | KPI | Value |
@@ -143,8 +131,6 @@ Fintech-Analytics-Project
 | Fraud Amount | ₹5,969,443.52 |
 | High Risk Transactions | 517 |
 | High Risk Percentage | 1.03% |
-
----
 
 # 🗄️ Database Design
 
@@ -163,8 +149,6 @@ The project database was designed in PostgreSQL using a relational schema.
 - Indexes
 - Data Validation
 
----
-
 # 📈 SQL Analysis
 
 The project contains **10 SQL scripts** covering:
@@ -179,8 +163,6 @@ The project contains **10 SQL scripts** covering:
 - Time-Based Analysis
 - Advanced SQL Queries
 - Business Questions
-
----
 
 # 🐍 Python Exploratory Data Analysis
 
@@ -207,8 +189,6 @@ Libraries Used:
 - Matplotlib
 - Seaborn
 
----
-
 # 📊 Power BI Dashboard
 
 The interactive dashboard consists of three pages:
@@ -233,8 +213,6 @@ The interactive dashboard consists of three pages:
 - Risk Category Distribution
 - High Risk Transactions
 - Risk Trends
-
----
 
 # 💡 Key Business Insights
 
@@ -262,8 +240,6 @@ The interactive dashboard consists of three pages:
 - Fraud rates increased with higher risk categories.
 - The risk scoring model effectively identified suspicious transactions.
 
----
-
 # 📌 Business Recommendations
 
 - Increase monitoring of high-risk transactions.
@@ -272,8 +248,6 @@ The interactive dashboard consists of three pages:
 - Strengthen fraud detection for high-risk channels.
 - Continuously improve the transaction risk scoring model.
 - Develop machine learning models for fraud prediction.
-
----
 
 # 🚀 Skills Demonstrated
 
@@ -290,8 +264,6 @@ The interactive dashboard consists of three pages:
 - Risk Analytics
 - Business Storytelling
 
----
-
 # 📚 Learning Outcomes
 
 Through this project, I strengthened my practical skills in:
@@ -305,16 +277,10 @@ Through this project, I strengthened my practical skills in:
 - Risk Analysis
 - Business Decision Support
 
----
-
-# 👨‍💻 Author
-
-Devraj Singh
-
+✍️ Author
+DEVRAJ SINGH RAWAT
 Aspiring Data Analyst
-
-GitHub:
-
-LinkedIn:
-
-
+Business Data Analyst| SQL | Python | Power BI | Excel | PostgreSQL
+📧 devrajsinghrwt1@gmail.com | 📱 +91-8904446522 | 📍 Noida, India
+🔗 LinkedIn: https://www.linkedin.com/in/devraj-singh-rawat-b1bb5b105
+💻 GitHub: https://github.com/Devrajrwt
