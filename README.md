@@ -282,5 +282,5 @@ DEVRAJ SINGH RAWAT
 Aspiring Data Analyst
 Business Data Analyst| SQL | Python | Power BI | Excel | PostgreSQL
 📧 devrajsinghrwt1@gmail.com | 📱 +91-8904446522 | 📍 Noida, India
-🔗 LinkedIn: https://www.linkedin.com/in/devraj-singh-rawat-b1bb5b105
+🔗 LinkedIn: https://www.linkedin.com/in/devraj-singh-rawat1
 💻 GitHub: https://github.com/Devrajrwt
