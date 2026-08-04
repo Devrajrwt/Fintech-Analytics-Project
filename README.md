@@ -277,10 +277,10 @@ Through this project, I strengthened my practical skills in:
 - Risk Analysis
 - Business Decision Support
 
-✍️ Author
-DEVRAJ SINGH RAWAT
-Aspiring Data Analyst
-Business Data Analyst| SQL | Python | Power BI | Excel | PostgreSQL
-📧 devrajsinghrwt1@gmail.com | 📱 +91-8904446522 | 📍 Noida, India
-🔗 LinkedIn: https://www.linkedin.com/in/devraj-singh-rawat1
+✍️ Author <br>
+DEVRAJ SINGH RAWAT <br>
+Data Analyst | Business Intelligence | SQL | Python | Power BI | PostgreSQL | Excel <br>
+📧 devrajsinghrwt1@gmail.com | 📱 +91-8904446522 <br>
+📍  Preferred Work Locations: Gurugram, Bengaluru (Open to PAN India) <br>
+🔗 LinkedIn: https://www.linkedin.com/in/devraj-singh-rawat1 <br>
 💻 GitHub: https://github.com/Devrajrwt
